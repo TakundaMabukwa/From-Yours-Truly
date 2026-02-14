@@ -27,7 +27,7 @@ const photos: Photo[] = [
   },
   {
     src: "/collage/WhatsApp Image 2026-02-14 at 00.43.30 (3).jpeg",
-    caption: "Our 2nd time out - holding your hand feels like coming home",
+    caption: "Feels like home",
     subtitle: "Hand in hand",
   },
   {
