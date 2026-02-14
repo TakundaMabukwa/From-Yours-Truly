@@ -59,6 +59,9 @@ export default function Page() {
             To many more memories, mirror selfies, FaceTime calls,
             Mooshie adventures, and moments that make life beautiful with you.
           </p>
+          <p className="mt-3 font-sans text-base text-foreground">
+            See you at 10:30
+          </p>
           <p className="mt-4 text-lg" aria-label="love hearts">
             {"❤️❤️❤️"}
           </p>
