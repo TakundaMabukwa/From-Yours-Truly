@@ -13,8 +13,8 @@ const _inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'Happy Valentine\'s Day',
-  description: 'A love story in pictures - Our memories together',
+  title: 'Happy Valentine\'s Day❤️❤️',
+  description: 'A short story - dream for a lifetime of love and happiness with you. Happy Valentine\'s Day, my love.❤️❤️❤️',
 }
 
 export const viewport: Viewport = {
